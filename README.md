@@ -40,6 +40,5 @@ Entre em contato comigo:
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
