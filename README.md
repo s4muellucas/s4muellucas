@@ -34,3 +34,5 @@ Busco minha primeira oportunidade profissional na área de tecnologia para conti
 ## 📫 Contato
 
 GitHub: [@s4muellucas](https://github.com/s4muellucas)
+Gmail: samucaguedesvaz@gmail.com
+Linkedin: https://www.linkedin.com/in/samuel-lucas-94613140a/
