@@ -5,6 +5,7 @@
 Sou desenvolvedor em início de carreira, focado em desenvolvimento web e criação de projetos práticos.
 
 Atualmente estudo e desenvolvo aplicações utilizando tecnologias de **front-end e back-end**, buscando evoluir principalmente em JavaScript, Node.js e React.
+
 🌍 Experiência internacional: tive a oportunidade de realizar um intercâmbio acadêmico de 1 mês na Inglaterra, estudando na University of Sussex, em Brighton. Durante esse período, vivi uma experiência de imersão internacional voltada ao desenvolvimento do inglês, à comunicação em um ambiente multicultural e ao fortalecimento de habilidades como autonomia, adaptação e convivência com diferentes culturas.
 
 ## 🚀 Tecnologias
