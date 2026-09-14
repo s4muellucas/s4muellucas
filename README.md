@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Samuel Lucas Guedes
+# Olá, eu sou Samuel Lucas Guedes
 
 💻 **Desenvolvedor Web | JavaScript | Node.js | React**
 
