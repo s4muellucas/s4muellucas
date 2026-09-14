@@ -1,44 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Olá, eu sou Samuel Lucas Guedes
 
-###
+💻 **Desenvolvedor Web | JavaScript | Node.js | React**
 
-<p align="left">Meu nome é Samuel Lucas Guedes tenho 17 anos</p>
+Sou desenvolvedor em início de carreira, focado em desenvolvimento web e criação de projetos práticos.
 
-###
+Atualmente estudo e desenvolvo aplicações utilizando tecnologias de **front-end e back-end**, buscando evoluir principalmente em JavaScript, Node.js e React.
 
-<h2 align="left">About me</h2>
+## 🚀 Tecnologias
 
-###
-
-<p align="left">Sou um desenvolvedor em Javascript, back-end, Estudo programação há 3 anos, neste tempo aprendi a desenvolver sites em Javascript, front-end e css, estudei sobre frameworks, ux-ui, back-end, fiz cursos de excell, word. e edição de vídeos<br>📚 Atualmente estou aprendendo cibersegurança, segurança hospedagem e estou desenvolvendo projetos.<br>🎯 Metas: se tornar um desenvolvedor Sênior</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-Entre em contato comigo:
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker">
 </div>
 
-###
+## 📚 Atualmente estudando
 
+* JavaScript
+* Node.js
+* React
+* APIs REST
+* Cibersegurança
+* Desenvolvimento Web
 
-###
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade profissional na área de tecnologia para continuar evoluindo como desenvolvedor e participar de projetos reais.
+
+## 📫 Contato
+
+GitHub: [@s4muellucas](https://github.com/s4muellucas)
